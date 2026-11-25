@@ -1,0 +1,20 @@
+{
+    "json":"https://raw.githubusercontent.com/LafeLabs/dirt-wizard-distro/refs/heads/main/spore.json",
+    "php":"https://raw.githubusercontent.com/LafeLabs/dirt-wizard-distro/refs/heads/main/spore.php",
+    "files":[
+  "index.html",
+  "readme.html",
+  "editor.html",
+  "load-file.php",
+  "save-file.php",
+  "list-files.php",
+  "list-albums.php",
+  "php.js",
+  "track-list.js",
+  "trashmagic.js",
+  "trashmagic.css",
+  "README.md",
+  "spore.php",
+  "spore.json"
+    ]
+}
